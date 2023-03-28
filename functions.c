@@ -1,7 +1,5 @@
-#include "main.h"
-
+#include"main.h"
 /************************* PRINT CHAR *************************/
-
 /**
  * print_char - Prints a char
  * @types: List a of arguments
@@ -186,4 +184,3 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
-
